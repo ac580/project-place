@@ -13,3 +13,5 @@ Note: The host of the sql database is from the UK therefore the response may be 
 1. db.php from the Controller folder on line 6: (host,username,password,databasename)
 2. bdd.php from the Controller folder on line 5: (host,databasename,username,password)
 3. searchClient.php on line157: (host,username,password,databasename)
+
+Then run the script datingsite.sql on your mysql database, make sure you have edit to the name of your database in line 1.
