@@ -4,6 +4,7 @@
 3. After that, enter command       php -S 127.0.0.1:1337
 4. So the web pages can now be linked to this host
 5. Enter the link "localhost:1337/login.php" on your browser
+6. If you are confused with the functionality of the web, feel free to look at the webexplanation.ppt on the repository.
 
 
 
